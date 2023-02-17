@@ -1,0 +1,46 @@
+*{
+    
+    padding: auto;
+    background-color: blue;
+    color: white;
+
+}
+.aa{
+    margin-left: 30vh;
+}
+.abc{
+  align-items: center;
+  line-height: 2cm;
+  margin-left: 40vh;
+  background-color: white;
+}
+.a{
+    background-color: white;
+    width: 25vh;
+    padding: auto;
+    align-content: center;
+    padding-bottom: 0cm;
+    margin-left: 40px;
+}
+.c{
+    background-color: white;
+    color: black;
+    position: relative;
+    width: 30%;
+}
+.d{
+
+    border-color: white;
+    height: 40px;
+    border-style: solid;
+}
+.b {
+    background-color: white;
+    margin-top: 0;
+    margin-bottom: 10px;
+    align-content: bottom;
+}
+.form{
+    position: relative;
+    padding: center;
+}
